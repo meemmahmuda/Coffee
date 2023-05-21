@@ -1,0 +1,208 @@
+@media(max-width: 991px){
+
+	.body-2{
+		background: #112340;
+	}
+
+	.body2-left h1{
+		color: #fff;
+		font-size: 80px;
+	}
+
+	.cup-1{
+	top: 6%;
+	left:5%;
+   }
+
+   .body2-right p{
+   	width: 100%;
+   	text-align: left;
+   }
+
+
+
+
+
+   .body-3{
+		background: #fff;
+	}
+
+	.body3-right h1{
+		color: #00194b;
+		font-size: 80px;
+	}
+
+	.cup-1{
+	top: 6%;
+	left:5%;
+   }
+
+   .body3-left p{
+   	width: 100%;
+   	text-align: left;
+    color: #00194b;
+
+   }
+
+
+
+
+   .body-4{
+		background: #112340;
+	}
+
+	.body4-left h1{
+		color: #fff;
+		font-size: 80px;
+	}
+
+	.cup-1{
+	top: 6%;
+	left:5%;
+   }
+
+   .body4-right p{
+   	width: 100%;
+   	text-align: left;
+    color: #fff;
+
+   }
+
+}
+
+
+.foot-nav ul li a{
+	font-size: 15px;
+	padding-right: 0;
+}
+
+.foot-social ul{
+	margin-top: 30px;
+}
+
+.foot-social ul li a{
+	padding-left: 80px;
+}
+
+
+
+
+@media(max-width: 991px){
+
+	.coffee-logo{
+		width: 30%;
+		margin: auto;
+	}
+
+
+
+	
+}
+
+@media(max-width: 767px){
+	.cup-1{
+	top: 6%;
+	left:6%;
+   }
+}
+
+@media(max-width: 768px){
+
+	.coffee-nav ul li a::after{
+		display: none;
+	}
+
+	.coffee-nav ul li a{
+	   padding-right: 30px;
+
+	}
+}
+
+@media(max-width: 560px){
+	.coffee-nav ul li a{
+		font-size: 20px;
+	}
+
+	.coffee-nav ul{
+		margin-left: 30px;
+	}
+
+	.time h4{
+		font-size: 50px;
+	}
+
+	.time-1 p{
+		font-size: 30px;
+	}
+
+	.time-2 p{
+		font-size: 30px;
+	}
+
+	.branch h4{
+		font-size: 50px;
+		
+	}
+
+
+}
+
+@media(max-width: 560px){
+
+	.free h1{
+		font-size: 30px;
+	}
+
+	.discount{
+		height: 200px;
+		width: 200px;
+	}
+
+	.dis-title h3{
+		font-size: 70px;
+	}
+}
+
+@media(max-width: 510px){
+	.coffee-nav ul li a{
+		font-size: 10px;
+	}
+
+	.coffee-nav ul li a{
+	   padding-right: 10px;
+
+	}
+}
+
+@media(max-width: 423px){
+	.discount{
+		height: 130px;
+		width: 130px;
+	}
+
+	.green-leaf{
+		width: 20%;
+	}
+
+	.coffee-review h3{
+		font-size: 50px;
+	}
+}
+
+@media(max-width: 346px){
+	.body-1-txt h1{
+		font-size: 80px;
+	}
+
+	.body-1-txt h6{
+		font-size: 20px;
+	}
+
+	.body-1-txt button{
+	padding: 5px 10px;
+		
+	}
+
+	
+
+}
